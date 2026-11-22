@@ -20,6 +20,14 @@ I work across browser interfaces and C# desktop projects, with a focus on simple
 
 ---
 
+## Developer toolkit
+
+Quick references for Git, web fundamentals, .NET, and GitHub.
+
+[![Git tutorial](https://img.shields.io/badge/Git%20tutorial-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/docs/gittutorial) [![MDN Web Docs](https://img.shields.io/badge/MDN%20Web%20Docs-0D0B17?style=for-the-badge&logo=mdnwebdocs&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) [![.NET Framework docs](https://img.shields.io/badge/.NET%20Framework%20docs-0D0B17?style=for-the-badge&logo=dotnet&logoColor=55D6FF)](https://learn.microsoft.com/en-us/dotnet/framework/) [![GitHub Docs](https://img.shields.io/badge/GitHub%20Docs-0D0B17?style=for-the-badge&logo=github&logoColor=E6E2F2)](https://docs.github.com/en/get-started/start-your-journey)
+
+---
+
 ## GitHub at a glance
 
 ![GitHub statistics for aidaouisedik28](https://github-readme-stats.vercel.app/api?username=aidaouisedik28&show_icons=true&hide_border=true&title_color=9B8CFF&text_color=E6E2F2&icon_color=55D6FF&bg_color=0D0B17)
